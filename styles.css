@@ -1,0 +1,53 @@
+
+#index .container{
+	width: 20em;
+	
+}
+
+img{
+	width: 20em;
+
+}
+
+#project img{
+	width: 100%;
+	display: block;
+
+}
+
+h1{
+	font-family: verdana;
+	text-transform: uppercase;
+}
+
+h3{
+	font-family: verdana;
+}
+
+p{
+	font-family: verdana;
+}
+
+ul{
+	display: flex;
+}
+
+li{
+	outline: thin red solid;
+	font-family: verdana;
+	text-transform: uppercase;
+	list-style-type: none;
+	font-weight: bolder;
+}
+
+li a{
+	font-weight: lighter;
+	font-size: 0.7em;
+	text-decoration: none;
+	color: orange;
+}
+
+
+
+
+
