@@ -18,10 +18,12 @@ img{
 h1{
 	font-family: verdana;
 	text-transform: uppercase;
+	color: pink;
 }
 
 h3{
 	font-family: verdana;
+
 }
 
 p{
@@ -30,6 +32,8 @@ p{
 
 ul{
 	display: flex;
+	color: pink;
+
 }
 
 li{
